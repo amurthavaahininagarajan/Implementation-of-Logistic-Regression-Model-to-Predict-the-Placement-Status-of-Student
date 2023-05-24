@@ -77,28 +77,38 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
-1.PLACEMENT DATA
+## 1.PLACEMENT DATA
 ![image](https://github.com/amurthavaahininagarajan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118679102/3aaf36a3-3225-4e02-894b-679fae92571c)
-2.SALARY DATA:
+
+## 2.SALARY DATA:
 ![image](https://github.com/amurthavaahininagarajan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118679102/bfb3690b-0316-4a6a-8d41-eec8657f928c)
-3.Checking the null function()
+
+## 3.Checking the null function()
 ![image](https://github.com/amurthavaahininagarajan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118679102/821980ec-0828-4d23-a523-210744cfe740)
-4.Data Duplicate
+
+## 4.Data Duplicate
 ![image](https://github.com/amurthavaahininagarajan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118679102/7dc60349-0dc5-465b-8865-346198a9851d)
-5.Print Data
+
+## 5.Print Data
 ![image](https://github.com/amurthavaahininagarajan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118679102/973ca213-b6a0-47d6-a04c-42f6152a4fb3)
 ![image](https://github.com/amurthavaahininagarajan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118679102/b82f1f41-495c-4284-9d63-7dd9a8f1f74e)
-6.Data Status
+
+## 6.Data Status
 ![image](https://github.com/amurthavaahininagarajan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118679102/a308db6f-3645-4a26-bad3-854a0dd8df13)
-7.y_prediction array
+
+## 7.y_prediction array
 ![image](https://github.com/amurthavaahininagarajan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118679102/68313695-f848-4c88-9b28-cbc943b46b2c)
-8.Accuracy value
+
+## 8.Accuracy value
 ![image](https://github.com/amurthavaahininagarajan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118679102/4fd084e5-a1a4-4f2b-90f9-2272afecb5a1)
-9.Confusion matrix
+
+## 9.Confusion matrix
 ![image](https://github.com/amurthavaahininagarajan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118679102/e89e4d54-4861-49a2-ae42-3855314d2c65)
-10.Classification Report
+
+## 10.Classification Report
 ![image](https://github.com/amurthavaahininagarajan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118679102/11220784-7d11-4818-86f1-529911748b78)
-11.Prediction of LR
+
+## 11.Prediction of LR
 ![image](https://github.com/amurthavaahininagarajan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118679102/8c568904-1ce8-492c-8294-4cc087c0cdcc)
 
 
